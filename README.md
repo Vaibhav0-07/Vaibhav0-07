@@ -1,203 +1,126 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0d3b5e,100:1a6699&height=220&section=header&text=Hey%2C%20I'm%20Vaibhav!%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20JavaScript%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Learner&descSize=18&descFontColor=8b949e&descAlignY=62"/>
+<h1 align="center">Hi 👋, I'm Vaibhav Pandey</h1>
+<h3 align="center">Backend Developer & Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/Vaibhav0-07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub+profile!+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js+Developer;Building+cool+stuff+one+commit+at+a+time...;Always+learning+%7C+Always+building+%E2%9C%A8" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Backend+Architecture+Enthusiast;AI+%26+Machine+Learning;Data+Structures+%26+Algorithms" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vaibhav0-07">
-    <img src="https://komarev.com/ghpvc/?username=Vaibhav0-07&style=flat-square&color=0891b2&label=Profile+Views" alt="Profile Views"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Vaibhav0-07?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vaibhav0-07?style=flat-square&color=0891b2&label=Followers" alt="Followers"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-0891b2?style=flat-square" alt="Focus"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Lives-India%20%F0%9F%87%AE%F0%9F%87%B3-0891b2?style=flat-square" alt="India"/>
+  <img src="https://media.giphy.com/media/qgQUggCGvnPcsEzy1I/giphy.gif" width="180" alt="Animated coding gif">
 </p>
 
-<br/>
+---
+
+### 👨‍💻 About Me
+
+*   🎓 **Education:** Pursuing a B.Tech in Computer Science and Engineering specializing in Artificial Intelligence and Machine Learning at SRM IST Ghaziabad (Batch of 2027) with a current CGPA of **9.14/10**[cite: 1].
+*   💻 **Core Focus:** Building high-performance, modular backend ecosystems, secure RESTful APIs, and responsive full-stack applications[cite: 1].
+*   🚀 **Problem Solving:** Actively practicing DSA with over 175+ problems solved across major platforms[cite: 1].
+*   📫 **Contact:** Reach out via **[vaibhavpandey2506@gmail.com](mailto:vaibhavpandey2506@gmail.com)** or **[vp6214@srmist.edu.in](mailto:vp6214@srmist.edu.in)**[cite: 1].
 
 ---
 
-## 🧑‍💻 About Me
+### 🛠️ Tech Stack & Tools
 
-<table align="center">
-<tr>
-<td valign="top" width="55%">
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  
+  <!-- Frameworks & Frontend -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadcnUI" />
+  
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  
+  <!-- State & Tools -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-<br/>
-
-```javascript
-const vaibhav = {
-  username  : "v_07",
-  pronouns  : "he / him",
-  location  : "India 🇮🇳",
-  stack     : ["JavaScript", "React", "Node.js"],
-  currently : "Building Mark1 🔭",
-  learning  : ["System Design", "TypeScript"],
-  openTo    : "Collaborations & open source 🤝",
-  funFact   : "Pull Shark badge × 2 🦈🦈",
-};
-```
-
-<br/>
-
-- 🔭 &nbsp; Working on **[Mark1](https://github.com/Vaibhav0-07/mark1main)** — my full-stack passion project
-- 🌱 &nbsp; Deep-diving into **React patterns** & **Backend architecture**
-- 💡 &nbsp; Love building end-to-end apps from idea → deployment
-- 💬 &nbsp; Ask me about **JavaScript**, **REST APIs**, or **Express.js**
-- ⚡ &nbsp; Fun fact: I debug with `console.log` and I'm proud of it 😄
-
-</td>
-<td valign="top" width="45%">
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Coding GIF"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
+> **Interests & Framework Knowledge:** Databases, Backend Development, Data Structures and Algorithms, Zustand, EDA, and Machine Learning[cite: 1].
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Featured Projects
 
-<div align="center">
+#### 🤖 [Mark1](https://trymark1.vercel.app/) (`mark1main`)
+An AI-powered solution designed to generate functional user interfaces straight from MVP natural language prompts[cite: 1].
+*   🔗 **Live Demo:** [trymark1.vercel.app](https://trymark1.vercel.app/)
+*   📂 **Repository:** [mark1main](https://github.com/Vaibhav0-07/mark1main)
+*   ⚡ Built utilizing **React + Vite** and **Next.js** for dynamic, fluid component rendering[cite: 1].
+*   🔒 Implemented **Clerk authentication**, maintaining an estimated ~99% session management reliability[cite: 1].
+*   🎨 Features modular design with comprehensive dark/light theme options and total mobile responsiveness[cite: 1].
+*   📈 Effectively cuts down manual UI prototyping timelines by up to ~60%[cite: 1].
 
-**🌐 &nbsp; Frontend**
+#### ⚙️ YouTube-like Architecture Platform (`backendmain`)
+A production-ready data and backend architectural layer handling complex interactions like video streams, tweets, comments, and user interaction metrics[cite: 1].
+*   📂 **Repository:** [backendmain](https://github.com/Vaibhav0-07/backendmain)
+*   🛠 Developed **20+ modular RESTful API endpoints** utilizing Node.js, ExpressJS, and complex MongoDB aggregation pipelines[cite: 1].
+*   🛡 Implemented clean **JWT session verification** securing user-to-server operations with high reliability[cite: 1].
+*   ☁ Optimized storage architectures using **Cloudinary media integration**, cutting baseline database storage loads by roughly ~70%[cite: 1].
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### 📊 Habitica
+A tracking and trend visualization engine optimized entirely in spreadsheet ecosystems[cite: 1].
+*   🛠 Engineered an automated monthly trend layout incorporating conditional rules and data validation features[cite: 1].
+*   📈 Supports data visualizations parsing progress metrics for up to 25 routine habits simultaneously[cite: 1].
 
-**⚙️ &nbsp; Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**🧰 &nbsp; Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-**📚 &nbsp; Currently Learning**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-<br/>
+#### 🌐 Eichi (`Eichi`)
+*   📂 **Repository:** [Eichi](https://github.com/Vaibhav0-07/Eichi)
+*   💡 Exploring modern web technologies and deployment structures within an elegant full-stack framework.
 
 ---
 
-## 📊 GitHub Stats
+### 🏆 Competitions & Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav0-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav0-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vaibhav0-07&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</div>
-
-<br/>
+*   🥇 **Smart India Hackathon 2025:** Secured a spot as a College-Level Finalist in a healthcare-focused stream, orchestrating full-stack development implementations and product pitches[cite: 1].
+*   📊 **LeetCode Weekly Contest 491:** Ranked **3888 out of 40,616** global participants[cite: 1].
+*   🎓 **Oracle Certified Foundations Associate:** Certified industry professional (Oct 2025 – Oct 2027)[cite: 1].
 
 ---
 
-## 🏆 GitHub Trophies
+### 🌟 Extracurricular & Leadership
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaibhav0-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
+*   🛡 **Gift a Smile Foundation:** Formulated and led security sessions educating over 25+ underprivileged students on essential digital hygiene and scam identification[cite: 1].
+*   📢 **Yoga Club, SRM IST:** Appointed Public Relations Manager, expanding inter-departmental attendance through comprehensive digital promotional content campaigns[cite: 1].
 
 ---
 
-## 📈 Contribution Graph
+### 🤝 Connect with Me
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav0-07&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&radius=8" alt="Contribution Graph" width="95%"/>
-</div>
-
-<br/>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![mark1main](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav0-07&repo=mark1main&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/Vaibhav0-07/mark1main)
-&nbsp;
-[![BackendMain](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav0-07&repo=BackendMain&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/Vaibhav0-07/BackendMain)
-
-[![ReactRevision](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav0-07&repo=ReactRevision&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/Vaibhav0-07/ReactRevision)
-&nbsp;
-[![Mark1](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav0-07&repo=Mark1&theme=tokyonight&hide_border=true&description_lines_count=2)](https://github.com/Vaibhav0-07/Mark1)
-
-</div>
-
-<br/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vaibhavpandey2506/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vaibhavpandey2506@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Vaibhav0-07">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Vaibhav0-07">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav0-07&show_icons=true&theme=radical&hide_border=true" alt="Vaibhav's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Vaibhav0-07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav0-07&theme=radical&hide_border=true" alt="Vaibhav's GitHub Streak" />
+  </a>
+</p>
 
-<a href="https://github.com/Vaibhav0-07">
-  <img src="https://img.shields.io/badge/GitHub-%40Vaibhav0--07-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL_HERE">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER_HERE">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**💭 &nbsp; "First, solve the problem. Then, write the code." — John Johnson**
-
-<br/>
-
-**⭐ &nbsp; If you find my work interesting, consider starring some repos! ⭐**
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6699,40:0d3b5e,70:0d2137,100:0d1117&height=130&section=footer"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav0-07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
