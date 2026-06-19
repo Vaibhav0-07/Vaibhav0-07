@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vaibhav%20Pandey&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20%20%7CBackend%20Architect&descSize=17&descAlignY=64" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vaibhav%20Pandey&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20%20Backend%20Architect&descSize=17&descAlignY=64" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&lines=🚀+Building+AI-Powered+UIs+with+Mark1;⚙️+Backend+Engineer+%7C+Node.js+%2B+MongoDB;🎓+CGPA+9.14+%7C+SRM+IST+Ghaziabad+2027;🏆+Smart+India+Hackathon+2025+Finalist;💡+175%2B+LeetCode+Problems+Solved)](https://readme-typing-svg.demolab.com)
 
