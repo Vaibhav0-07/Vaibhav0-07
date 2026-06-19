@@ -168,11 +168,19 @@ Dynamic **Google Sheets** monthly habit dashboard with auto-updating calendar lo
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <div align="center">
 
-[![Trophy](github-profile-summary-cards.vercel.app&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav0-07&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav0-07&theme=tokyonight" height="160em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhav0-07&theme=tokyonight" height="160em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibhav0-07&theme=tokyonight" height="160em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaibhav0-07&theme=tokyonight&utcOffset=5.5" height="160em"/>
 
 </div>
 
@@ -189,7 +197,7 @@ Dynamic **Google Sheets** monthly habit dashboard with auto-updating calendar lo
 | **Contest Rank** | 🥇 3888 / 40,616 (Top ~10%) |
 | **Topics Mastered** | Dynamic Programming · Binary Search · Hash Table · Bit Manipulation · Arrays · Two Pointers · Sliding Window · String · MySQL |
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaibhav25x/)
 
 </div>
 
