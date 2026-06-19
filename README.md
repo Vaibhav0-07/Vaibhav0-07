@@ -58,7 +58,7 @@ live_at   : trymark1.vercel.app
 
 **Tools & Platforms**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,linux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark)](https://skillicons.dev)
 
 **Also Working With**
 
