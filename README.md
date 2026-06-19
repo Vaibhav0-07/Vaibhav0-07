@@ -172,7 +172,7 @@ Dynamic **Google Sheets** monthly habit dashboard with auto-updating calendar lo
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Vaibhav0-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](github-profile-summary-cards.vercel.app&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
