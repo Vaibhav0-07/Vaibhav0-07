@@ -22,7 +22,7 @@
 name      : Vaibhav Pandey
 alias     : v_07
 degree    : B.Tech CSE (AI & ML) — SRM IST Ghaziabad
-cgpa      : 9.14 / 10  |  Graduating: 2027
+cgpa      : 9.17 / 10  |  Graduating: 2027
 location  : Uttar Pradesh, India
 currently : Building Mark1 — AI UI Generator 🚀
 live_at   : trymark1.vercel.app
@@ -192,7 +192,7 @@ Dynamic **Google Sheets** monthly habit dashboard with auto-updating calendar lo
 
 | 📊 Metric | 🔢 Value |
 |:---:|:---:|
-| **Problems Solved** | 175+ |
+| **Problems Solved** | 200+ |
 | **Contest** | Weekly Contest 491 |
 | **Contest Rank** | 🥇 3888 / 40,616 (Top ~10%) |
 | **Topics Mastered** | Dynamic Programming · Binary Search · Hash Table · Bit Manipulation · Arrays · Two Pointers · Sliding Window · String · MySQL |
